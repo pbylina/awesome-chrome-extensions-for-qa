@@ -27,6 +27,7 @@ A curated list of **Chrome extensions** for QA professionals to boost productivi
 - **[Jira Assistant](https://jiraassistant.com)**: Seamless integration for reporting bugs directly into Jira.  
 - **[Marker.io](https://marker.io)**: Capture screenshots and report bugs to your preferred project management tools.  
 - **[Scribe](https://scribehow.com/)**: Automatically generate step-by-step guides and share them with your team.  
+- **[SnapPage](https://chromewebstore.google.com/detail/snappage-full-page-screen/mpgnpajldjibfcaiainoilfdbpconncg)**: Capture full-page and visible-area screenshots for QA notes, bug reports, and visual reviews.  
 
 
 ---
@@ -62,6 +63,5 @@ A curated list of **Chrome extensions** for QA professionals to boost productivi
 - **[SiteLock Secure](https://www.sitelock.com/)**: Check the security status of any website.  
 
 ---
-
 
 
