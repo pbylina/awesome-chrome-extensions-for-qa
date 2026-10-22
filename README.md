@@ -20,6 +20,7 @@ A curated list of **Chrome extensions** for QA professionals to boost productivi
 - **[Katalon](https://www.katalon.com/katalon-recorder/)**: Lightweight extension for recording and executing automation scripts.  
 - **[Ghost Inspector](https://www.ghostinspector.com/)**: Record and run tests for web applications directly in the browser.  
 - **[UI.Vision RPA](https://ui.vision/)**: Open-source tool for automating web application tests and workflows.
+- **[Spoof Me](https://chromewebstore.google.com/detail/spoof-me/onbjkmhileedchimkcmieeiomipdljki)**: Test how a site behaves for users on other browsers, OSes, languages, timezones and screen sizes by switching the whole browser identity.
 
 ---
 
